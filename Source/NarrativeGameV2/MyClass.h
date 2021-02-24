@@ -4,3 +4,9 @@
 
 #include "CoreMinimal.h"
 
+class NARRATIVEGAMEV2_API MyClass
+{
+public:
+	MyClass();
+	~MyClass();
+};
